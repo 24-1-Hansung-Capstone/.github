@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=찾아줘%20HOMES!&fontAlign=50&fontSize=55&textBg=false&desc=24-1%20Hansung%20Univ%20Capstone&descAlign=80&descAlignY=80)
 
@@ -59,13 +59,18 @@ cicd :
 
 <br>
 
-### 🚀 topic
+### 🚀 Topic
 
 ---
 
 2024 Hausung Univ Capstone Design
 <br/>
 Elastic Search와 생성형 AI 를 이용한 부동산 통합 검색 플랫폼
+<br><br>
+
+### ⏳ 프로젝트 배경
+---
+기존의 부동산 관련 사이트는 주로 부동산 매물 소개에 중점을 두고 있어, 사용자들이 부동산에 관한 종합적인 정보를 얻기에는 한계가 있습니다. 매물정보 외에 해당지역관련 뉴스 기사나 블로그 글, 지도 정보 등을 지능적인 검색 엔진과 다양한문서 분석을 통해 제공하면 사용자는 손쉬운 접근성과 높은 신뢰성을 바탕으로 종합적인 부동산 정보를 얻을 수 있다고 생각했습니다. 따라서 저희는 부동산 관련 정보를 종합적으로 제공하는 부동산 전문 포털 사이트 <찾아줘 Homes> 개발을 결정했습니다.
 <br><br>
 
 ### 📕Description
@@ -77,8 +82,20 @@ apache lucene 기술을 적용한 Elastic Search를 이용한 검색 엔진 및
 다양한 Natural Language AI 를 접목하여 방대한 정보를 쉽고 빠르게 획득할 수 있다.
 <br><br>
 
-### ✅milestone
 
+### 🛠 프로젝트 구조
+---
+![image](https://github.com/24-1-Hansung-Capstone/.github/assets/115917172/37af2006-2169-43e1-b099-ff2ed97a7675)
+<br><br>
+
+
+### 🌞 주요 기능
 ---
 
+<br><br>
+
+### 🎬 발표영상
+---
+<영상링크>
+<br><br>
 </div>

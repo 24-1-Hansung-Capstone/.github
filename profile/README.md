@@ -97,5 +97,6 @@ apache lucene 기술을 적용한 Elastic Search를 이용한 검색 엔진 및
 ### 🎬 발표영상
 ---
 <영상링크>
+https://youtu.be/YdOFnoia3dg
 <br><br>
 </div>

@@ -91,6 +91,36 @@ apache lucene 기술을 적용한 Elastic Search를 이용한 검색 엔진 및
 
 ### 🌞 주요 기능
 ---
+<strong>1. 메인화면</strong>
+<br>
+![image](https://github.com/24-1-Hansung-Capstone/.github/assets/115917172/8794676d-7235-414a-a264-b577c9044105)
+<br>
+
+<strong>2, 검색페이지(뉴스요약&챗봇)
+<br>
+![image](https://github.com/24-1-Hansung-Capstone/.github/assets/115917172/735b88eb-b3d4-4853-9c0d-b48f7839f05d)
+<br>
+
+<strong>2. 지도</strong>
+<br>
+![image](https://github.com/24-1-Hansung-Capstone/.github/assets/115917172/7ea5d350-724d-41f4-be9b-f4bf7f3ee080)
+<br>
+
+<strong>3. 청약 페이지</strong>
+![image](https://github.com/24-1-Hansung-Capstone/.github/assets/115917172/d3806345-2e3f-436d-9c97-aecc79acdad5)
+![image](https://github.com/24-1-Hansung-Capstone/.github/assets/115917172/ec2a5e10-15f4-4fbc-a429-819cc8bf64a3)
+<br>
+
+<strong>4. 매물만족도 & 리뷰 감정분석</strong>
+<br>
+![image](https://github.com/24-1-Hansung-Capstone/.github/assets/115917172/a27e133a-12dd-4658-ab79-adb2b2f7905e)
+<br>
+
+<strong>5. 홈즈사무소(커뮤니티)</strong>
+<br>
+![image](https://github.com/24-1-Hansung-Capstone/.github/assets/115917172/290e2562-4a2a-49d9-9fed-0fbf417f627a)
+<br>
+
 
 <br><br>
 

@@ -16,7 +16,7 @@
 
 [1971231 팀장 이승재](https://github.com/sjlee9908)
 <br>
-[1991173 팀원 방경원](https://github.com/KyungwonBang)
+[1991173 팀원 방경원](https://github.com/KyeongwonBang)
 <br>
 [1971251 팀원 임지우](https://github.com/pyyhekumi82)
 <br>
